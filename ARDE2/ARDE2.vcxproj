@@ -30,6 +30,7 @@
     <ClCompile Include="TADouble.cpp" />
     <ClCompile Include="TAEqual.cpp" />
     <ClCompile Include="TAFloor.cpp" />
+    <ClCompile Include="TAForALl.cpp" />
     <ClCompile Include="TAGreaterThan.cpp" />
     <ClCompile Include="TAGreaterThanOrEquals.cpp" />
     <ClCompile Include="TAInt.cpp" />
@@ -58,6 +59,7 @@
     <ClInclude Include="TADouble.h" />
     <ClInclude Include="TAEqual.h" />
     <ClInclude Include="TAFloor.h" />
+    <ClInclude Include="TAForALl.h" />
     <ClInclude Include="TAFormula.h" />
     <ClInclude Include="TAGreaterThan.h" />
     <ClInclude Include="TAGreaterThanOrEquals.h" />

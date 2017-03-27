@@ -90,6 +90,9 @@
     <ClCompile Include="TAThereExists.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="TAForALl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="TAAnd.h">
@@ -174,6 +177,9 @@
       <Filter>Source Files</Filter>
     </ClInclude>
     <ClInclude Include="TAThereExists.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TAForALl.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>
