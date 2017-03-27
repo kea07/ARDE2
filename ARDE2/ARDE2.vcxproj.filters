@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TAAnd.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TAArray.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TABool.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TACeiling.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TAConstant.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TADivide.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TADouble.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TAEqual.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TAFloor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TAGreaterThan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TAGreaterThanOrEquals.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TAInt.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TALessThan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TALessThanOrEquals.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TAMinus.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TAMult.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TANot.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TANumber.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TAOr.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TAPair.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TAPlus.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TAXOR.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TADomain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TAThereExists.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="TAAnd.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TAArithmetics.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TAArray.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TABool.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TABoolOperations.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TACeiling.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TAConstant.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TADivide.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TADomain.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TADouble.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TAEqual.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TAFloor.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TAGreaterThan.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TAGreaterThanOrEquals.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TAInt.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TALessThan.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TALessThanOrEquals.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TAMinus.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TAMult.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TANot.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TANumber.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TAOr.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TAPair.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TAPlus.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TAXOR.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Type.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TAFormula.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TAThereExists.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
