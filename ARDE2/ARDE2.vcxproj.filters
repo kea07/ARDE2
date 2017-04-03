@@ -93,6 +93,9 @@
     <ClCompile Include="TAForALl.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="TAIfElse.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="TAAnd.h">
@@ -182,5 +185,11 @@
     <ClInclude Include="TAForALl.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="TAIfElse.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
   </ItemGroup>
 </Project>

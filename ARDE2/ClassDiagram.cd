@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TAAnd" Collapsed="true">
+    <Position X="1.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAIAAAIEQCAAAAAAAAAAAAI=</HashCode>
+      <FileName>TAAnd.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TAArithmetics" Collapsed="true">
+    <Position X="3.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TAArithmetics.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TAArray" Collapsed="true">
+    <Position X="0.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAACCIAAACAAAICAAAAAAAEEQAAAAAAAAAAAAAI=</HashCode>
+      <FileName>TAArray.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TABool" Collapsed="true">
+    <Position X="3" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAASAAAAIAAAAAAAAEACAAAAAAAAAAAAI=</HashCode>
+      <FileName>TABool.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TABoolOperations" Collapsed="true">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAIAQAAAAAAAAQAAAAI=</HashCode>
+      <FileName>TABoolOperations.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TACeiling" Collapsed="true">
+    <Position X="28.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAABAAQAAAAAAIEACAEAAAAAAAAAAI=</HashCode>
+      <FileName>TACeiling.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TAConstant" Collapsed="true">
+    <Position X="5.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAABAAASAAAAAAAAAAAAAEACAAAAAAAAAAAAI=</HashCode>
+      <FileName>TAConstant.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TADivide" Collapsed="true">
+    <Position X="0.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAABAAAAAAAAAIEAAAAAIAACAAAAAI=</HashCode>
+      <FileName>TADivide.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TADomain" Collapsed="true">
+    <Position X="30.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAIAAAAAAAAAAAAAAAAAgBEAAAAAEgAAAAAAAA=</HashCode>
+      <FileName>TADomain.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TADouble" Collapsed="true">
+    <Position X="7.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAASAAAAIAAAAEAAAEACAAAAAAAAAAAAI=</HashCode>
+      <FileName>TADouble.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TAEqual" Collapsed="true">
+    <Position X="3.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAJAAAAAAAAAIEQCAAAgAAAQAAAAI=</HashCode>
+      <FileName>TAEqual.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TAFloor" Collapsed="true">
+    <Position X="28.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAACAABAAAAAAAAAIEACAAAAAgAAAAAAI=</HashCode>
+      <FileName>TAFloor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TAForAll" Collapsed="true">
+    <Position X="6" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAEAAABAAAAAAAAAIEQAAAAAAAAQAFAAI=</HashCode>
+      <FileName>TAForALl.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TAFormula" Collapsed="true">
+    <Position X="13.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAIAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TAFormula.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TAGreaterThan" Collapsed="true">
+    <Position X="12.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAABAAAAAAAAAIEQCAAAAAAAQAAAAI=</HashCode>
+      <FileName>TAGreaterThan.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TAGreaterThanOrEquals" Collapsed="true">
+    <Position X="15" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAJAAAAAAAAAIEQCAAAAAAAQIAAAI=</HashCode>
+      <FileName>TAGreaterThanOrEquals.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TAIfElse" Collapsed="true">
+    <Position X="8.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAABAAAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>TAIfElse.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TAInt" Collapsed="true">
+    <Position X="9.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAASAAAAIAAAAAAAAEACAAAAAAAAAAAAI=</HashCode>
+      <FileName>TAInt.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALessThan" Collapsed="true">
+    <Position X="17.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABACAAAAAAAIEQCAAAAAAAQAAAAI=</HashCode>
+      <FileName>TALessThan.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TALessThanOrEquals" Collapsed="true">
+    <Position X="19.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAIAIEQCAAAAAAAQAAAAI=</HashCode>
+      <FileName>TALessThanOrEquals.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TAMinus" Collapsed="true">
+    <Position X="2.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAABAAAABAAAAAAAAAIEAAAAAAAACAAAAAI=</HashCode>
+      <FileName>TAMinus.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TAMult" Collapsed="true">
+    <Position X="5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAABAAQAAAAAAIEAAAAAAAACAAAAAI=</HashCode>
+      <FileName>TAMult.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TANot" Collapsed="true">
+    <Position X="21.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAACAABAQAAAAAAAIEAAAAAAAgAAAAAAI=</HashCode>
+      <FileName>TANot.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TANumber" Collapsed="true">
+    <Position X="8.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAIAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>TANumber.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TAOr" Collapsed="true">
+    <Position X="24" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAIEQiAAAAAAAAAAAAI=</HashCode>
+      <FileName>TAOr.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TAPair" Collapsed="true">
+    <Position X="12" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAIEAAAAAAAEEAAAFAAAAAAIAAAI=</HashCode>
+      <FileName>TAPair.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TAPlus" Collapsed="true">
+    <Position X="7.25" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAABAABAAAABAAAAAAAAAIEAAAAAAAACAAAAAI=</HashCode>
+      <FileName>TAPlus.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TAThereExists" Collapsed="true">
+    <Position X="10.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAABAAAAAAAAAKEQAAAAAAAAQAFAAI=</HashCode>
+      <FileName>TAThereExists.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TAXOR" Collapsed="true">
+    <Position X="26.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAABAAAAAAAAAIEQCAAAAAAAAAAAAI=</HashCode>
+      <FileName>TAXOR.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Type" Collapsed="true">
+    <Position X="6.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Type.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

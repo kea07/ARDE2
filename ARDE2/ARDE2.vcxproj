@@ -33,6 +33,7 @@
     <ClCompile Include="TAForALl.cpp" />
     <ClCompile Include="TAGreaterThan.cpp" />
     <ClCompile Include="TAGreaterThanOrEquals.cpp" />
+    <ClCompile Include="TAIfElse.cpp" />
     <ClCompile Include="TAInt.cpp" />
     <ClCompile Include="TALessThan.cpp" />
     <ClCompile Include="TALessThanOrEquals.cpp" />
@@ -63,6 +64,7 @@
     <ClInclude Include="TAFormula.h" />
     <ClInclude Include="TAGreaterThan.h" />
     <ClInclude Include="TAGreaterThanOrEquals.h" />
+    <ClInclude Include="TAIfElse.h" />
     <ClInclude Include="TAInt.h" />
     <ClInclude Include="TALessThan.h" />
     <ClInclude Include="TALessThanOrEquals.h" />
@@ -76,6 +78,9 @@
     <ClInclude Include="TAThereExists.h" />
     <ClInclude Include="TAXOR.h" />
     <ClInclude Include="Type.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{CC3B43E0-C7D7-4038-ACC3-FB7A5074A472}</ProjectGuid>
